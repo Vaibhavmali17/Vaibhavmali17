@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nice meeting you, I’m Vaibhav Mali 👋<br><br>🔭 I’m a Java Full Stack Developer (Fresher)<br>🎓 MSc in Information Technology (Completed: June 2025)<br><br>🌱 I’m currently learning Java Full Stack Development<br>(Core Java, OOPs, JDBC, Hibernate, SQL, HTML, CSS, JavaScript)<br>📍 Training at QSpiders, Pune<br><br>💬 Ask me about Core Java, OOPs, SQL basics, and Full Stack roadmap<br><br>👯 I’m looking to collaborate on beginner-friendly Java & Full Stack projects<br><br>🤝 I’m looking for help with real-world project experience & interview preparation<br><br>📫 How to reach me:<br><br>       💼 LinkedIn: (https://www.linkedin.com/in/%20vaibhav-m-mali7)<br><br>       📧 Email: (vaibhavmali1712@gmail.com)<br><br><br>⚡ Fun fact:<br>I enjoy solving coding problems and improving myself step by step 🚀
+Nice meeting you, I’m Vaibhav Mali 👋<br><br>🔭 I’m a Java Full Stack Developer (Fresher)<br>🎓 MSc in Information Technology (Completed: June 2025)<br><br>🌱 I’m currently learning Java Full Stack Development<br>(Core Java, OOPs, JDBC, Hibernate, SQL, HTML, CSS, JavaScript)<br>📍 Training at QSpiders, Pune<br><br>💬 Ask me about Core Java, OOPs, SQL basics, and Full Stack roadmap<br><br>👯 I’m looking to collaborate on beginner-friendly Java & Full Stack projects<br><br>🤝 I’m looking for help with real-world project experience & interview preparation<br><br>📫 How to reach me:<br><br>       💼 LinkedIn: (https://www.linkedin.com/in/vaibhav-m-mali7)<br><br>       📧 Email: (vaibhavmali1712@gmail.com)<br><br><br>⚡ Fun fact:<br>I enjoy solving coding problems and improving myself step by step 🚀
 
 
 ## 🌐 Socials:
@@ -10,4 +10,4 @@ Nice meeting you, I’m Vaibhav Mali 👋<br><br>🔭 I’m a Java Full Stack De
 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

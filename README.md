@@ -5,6 +5,9 @@ Nice meeting you, I’m Vaibhav Mali 👋<br><br>🔭 I’m a Java Full Stack De
 💼 LinkedIn: (https://www.linkedin.com/in/vaibhav-m-mali17)<br><br>           
 📧 Email: (vaibhavmali1712@gmail.com)<br>
 ⚡Portfolio website - https://vaibhav-mali-portfolio.vercel.app/ <br><br> 
+
+MY Human Resource Management AI Project <br>
+ 📊  HRM website - https://human-resource-management-system-flax-phi.vercel.app/  <br><br>
  Fun fact:<br>I enjoy solving coding problems and improving myself step by step 🚀  
 
 ## 🌐 Socials:
